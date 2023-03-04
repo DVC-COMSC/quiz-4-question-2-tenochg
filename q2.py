@@ -31,6 +31,8 @@ for d in inputslength[:-1]:
       shortest = g
       break
 
+print(e,g,end=" ")
+
 
 # Requirement
 # No need to use list
